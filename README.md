@@ -19,7 +19,7 @@ I'm Fatimah Bin Bisher, Computer Science student at Umm Al-Qura university. I'm 
 Here are the projects I previously worked on, all can be accessed in the repository:
 * [Code Knight vs Thanos:](https://github.com/iFatima11/Computer-Graphics) a game implemented using opengl library in C++ .
 * [3M - Manage My Money:](https://github.com/iFatima11/3M) an application for manaiging money implemented using javafx and sql.
-* Herrah: a website for Cats services implemented using html, css and java script.
+* [Herrah:](https://github.com/iFatima11/web-app) a website for Cats services implemented using html, css and java script.
 * [Saudi Public Communication:](https://github.com/iFatima11/Telecommunicatoin-Company) Software Engineering(1) project consisting of different diagrams.
 
   
